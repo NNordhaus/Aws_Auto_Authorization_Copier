@@ -1,0 +1,1 @@
+# Aws_Auto_Authorization_Copier
